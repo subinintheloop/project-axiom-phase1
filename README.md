@@ -143,6 +143,6 @@ SUBIN SABU
 
 ## Screenshots
 
-dashboar view 1![FireShot Capture 016 - Project Axiom Command Center - localhost_page-0001](https://github.com/user-attachments/assets/641eb1b0-135e-47e7-8e1e-87721a950907)! 
-dashboard view 2 [FireShot Capture 015 - Project Axiom Command Center - localhost_page-0001](https://github.com/user-attachments/assets/7a0aab07-d857-4c95-89c6-1683df7d0dc4)
+dashboar view 1![FireShot Capture 016 - Project Axiom Command Center - localhost_page-0001](https://github.com/user-attachments/assets/641eb1b0-135e-47e7-8e1e-87721a950907)
+dashboard view 2 ![FireShot Capture 015 - Project Axiom Command Center - localhost_page-0001](https://github.com/user-attachments/assets/7a0aab07-d857-4c95-89c6-1683df7d0dc4)
 
